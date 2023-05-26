@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "firstName": "Stormy",
+        "lastName": "Gibbard",
+        "email": "sgibbard0@1688.com",
+        "gender": "Polygender",
+        "designation": "Engineer",
+        "department": "Road",
+        "assignedCases": []
+    },
+    {
+        "id": 2,
+        "firstName": "Modestine change for specific",
+        "lastName": "changed - specific",
+        "email": "cgreengrass1@wiley.com",
+        "gender": "Agender",
+        "designation": "Admin",
+        "department": "Transport",
+        "assignedCases": []
+    },
+    {
+        "id": 3,
+        "firstName": "Jobey",
+        "lastName": "Nevins",
+        "email": "jnevins2@harvard.edu",
+        "gender": "Female",
+        "designation": "Engineer",
+        "department": "Transport",
+        "assignedCases": [
+            "CASE-123-456-78"
+        ]
+    },
+    {
+        "id": 4,
+        "firstName": "Elroy",
+        "lastName": "Bagniuk",
+        "email": "ebagniuk3@free.fr",
+        "gender": "Male",
+        "designation": "Engineer",
+        "department": "Road",
+        "assignedCases": []
+    },
+    {
+        "id": 5,
+        "firstName": "Modestine change for specific",
+        "lastName": "changed - specific",
+        "email": "dbohman4@unesco.org",
+        "gender": "Non-binary",
+        "designation": "Admin",
+        "department": "Transport",
+        "assignedCases": []
+    },
+    {
+        "id": 6,
+        "firstName": "Modestine",
+        "lastName": "Beedon",
+        "email": "mbeedon5@tmall.com",
+        "gender": "Female",
+        "designation": "Engineer",
+        "department": "Road",
+        "assignedCases": []
+    },
+    {
+        "id": 7,
+        "firstName": "Marne",
+        "lastName": "Mandres",
+        "email": "mmandres6@ibm.com",
+        "gender": "Female",
+        "designation": "Engineer",
+        "department": "Transport",
+        "assignedCases": []
+    },
+    {
+        "id": 8,
+        "firstName": "Wendie",
+        "lastName": "Broose",
+        "email": "wbroose7@yandex.ru",
+        "gender": "Female",
+        "designation": "Engineer",
+        "department": "Transport",
+        "assignedCases": []
+    }
+]
